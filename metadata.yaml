@@ -1,5 +1,5 @@
 _repo: Miss-Nume-of-Japan-A-Japanese-American-Romance_58305
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Read, Opie Percival
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8387'
     url: http://www.gutenberg.org/2009/agents/8387
     wikipedia: http://en.wikipedia.org/wiki/Opie_Read
+covers:
+- cover_type: archival
+  image_path: 58305-h/images/cover.jpg
 creator:
   author:
     agent_name: Eaton, Winnifred
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '49587'
     url: http://www.gutenberg.org/2009/agents/49587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58305#Miss-Nume-of-Japan-A-Japanese-American-Romance
 gutenberg_issued: '2018-11-18'
 gutenberg_type: Text
 identifiers:
